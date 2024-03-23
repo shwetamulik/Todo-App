@@ -1,0 +1,15 @@
+.completed{
+    color: green;
+    text-decoration: line-through;
+}
+.modal{
+    border: solid 1px black;
+    padding: 16px;
+    top: 20px;
+    height: 400px;
+    width: 400px;
+    margin: 30px;
+}
+.todo{
+    color: black;
+}
